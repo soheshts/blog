@@ -159,9 +159,14 @@ footer {
 }
 
 .sidebar {
-  background-color: #39f;
+  /* background-color: #004643; */
+  background-color: #212529;
   color: #fff;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+  
+
 
 .sidebar a,
 .sidebar-about h1 {
