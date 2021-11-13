@@ -160,9 +160,9 @@ footer {
 
 .sidebar {
   /* background-color: #004643; */
-  background-color: #212529;
+  background-color: #f8f8f8;
   color: #fff;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
 
 }
   
@@ -170,7 +170,7 @@ footer {
 
 .sidebar a,
 .sidebar-about h1 {
-  color: #fff;
+  color: rgb(66, 62, 62);
 }
 
 footer a,
