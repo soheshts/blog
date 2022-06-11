@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tales about Trident: Project Sierra"
-date: 2021-11-04T20:38:46+05:30
+date: November 4, 2021
 draft: false
 ---
 
