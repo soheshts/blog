@@ -1,6 +1,6 @@
 title: Sohesh's blog
 description: Few Stupid Things
-url: "https://soheshts.github.io/"
+url: "https://soheshts.github.io"
 baseurl: "blog/"
 github:
   is_project_page: false
