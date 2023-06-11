@@ -6,7 +6,5 @@ github:
   owner_name: Sohesh
   owner_url: https://soheshts.github.io
   owner_gravatar_url: https://soheshts.github.io/images/me.jpg
-
 remote_theme: soheshts/cayman
-url: "https://soheshts.github.io"
-base_url: "/blog"
+baseurl: "/blog"
