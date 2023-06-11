@@ -7,5 +7,4 @@ github:
   owner_url: https://soheshts.github.io
   owner_gravatar_url: https://soheshts.github.io/images/me.jpg
 remote_theme: soheshts/cayman
-url: https://soheshts.github.io
-baseurl: "/blog/"
+permalink: /blog/:year/:month/:day/:title:output_ext
