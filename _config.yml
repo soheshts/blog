@@ -11,5 +11,5 @@ github:
   owner_url: https://soheshts.github.io/
   owner_gravatar_url: https://soheshts.github.io/images/me.jpg
 remote_theme: soheshts/cayman
-base_url: /blog
 baseurl: /blog
+permalink: date
