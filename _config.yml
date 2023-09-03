@@ -1,5 +1,5 @@
 title: Sohesh's blog
-url: https://soheshts.github.io/blog
+url: https://soheshts.github.io/
 website: https://soheshts.github.io
 basewebsite: /blog
 repository: soheshts/blog
@@ -12,4 +12,3 @@ github:
   owner_gravatar_url: https://soheshts.github.io/images/me.jpg
 remote_theme: soheshts/cayman
 baseurl: /blog
-permalink: date
